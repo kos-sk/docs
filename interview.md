@@ -1,7 +1,3 @@
----
-slug: /
----
-
 # Frontend dev Tech Interview plan
 
 Matherials for **Frontend engineer** position technical part of interview.
